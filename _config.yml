@@ -8,9 +8,9 @@ highlighter: pygments
 safe: true
 lsi: false
 source:      .
-languages_iso: [en]
-languages: [en]
-languages_names: [english]
+languages_iso: []
+languages: []
+languages_names: []
 # Build settings
 markdown: kramdown
 permalink: pretty
