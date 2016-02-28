@@ -44,30 +44,13 @@
         </svg>
       </a>
 
-      <!-- <ul class="trigger">
+      <ul class="trigger">
         {% assign lg = "" %}
         {% if page.language %}
           {% capture lg %}{{page.language}}/{% endcapture %}
         {% endif %}
 
-        <li><a href="{{ site.baseurl }}/{{ lg }}beginners-tutorials/">Blog</a>
-          <span class="arrow">&#9660;</span>
-          <ul class="sub-menu">
-            {% assign sorted_pages = site.pages | sort:"order" %}
-            {% capture tuts_root %}/{{ lg }}beginners-tutorials/{% endcapture %}
-            {% for p in sorted_pages %}
-              {% assign splt = p.url | split: tuts_root %}
-              {% if splt.size == 2 and splt[0] == '' %}
-                {% assign slash = splt[1] | split: '/' %}
-                {% if slash.size == 1 %}      
-                  <li><a href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a></li>
-                {% else %}
-                  <li><a href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a></li>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </li>
+        <li><a href="{{ site.baseurl }}/{{ lg }}beginners-tutorials/">Blog</a></li>
         <li><a href="{{site.baseurl}}/{{ lg }}intermediate-tutorials/">Closed source</a>
           <span class="arrow">&#9660;</span>
           <ul class="sub-menu">
@@ -145,11 +128,9 @@
               </ul></li>
             {% endif %}
           </ul>
-        </li> -->
-        <li><a href="{{site.baseurl}}/{{ lg }}download/">Blog</a></li>
-        <li><a href="{{site.baseurl}}/{{ lg }}download/">Open source</a></li>
-        <li><a href="{{site.baseurl}}/{{ lg }}download/">Closed source</a></li>
-        <li><a href="{{site.baseurl}}/{{ lg }}download/">Papers</a></li>
+        </li>
+        <li><a href="{{site.baseurl}}/{{ lg }}download/">Download</a></li>
+
 
         <!-- <li><select id="myLanguage" onchange="myFunction()">
           {% for l in site.languages %}
