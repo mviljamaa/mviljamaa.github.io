@@ -10,7 +10,8 @@ categories: []
 tags: []
 ---
 
-Follow them in any order
+I have contributed to closed source projects. Below you will find products etc.
+that I have produced code for.
 
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}

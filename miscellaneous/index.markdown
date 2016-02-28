@@ -10,6 +10,9 @@ categories: []
 tags: []
 ---
 
+I also contribute to open source projects. Below you will find a list
+of these contributions.
+
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for p in sorted_pages %}
    {% assign splt = p.url | split: page.url %}
