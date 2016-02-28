@@ -4,13 +4,13 @@ email: email@email.com
 url: "http://www.mviljamaa.github.io"
 description: "Computational sound development"
 baseurl: ""
-highlighter: pygments
+highlighter: rouge
 safe: true
 lsi: false
 source:      .
-languages_iso: []
-languages: []
-languages_names: []
+# languages_iso: [english]
+# languages: [english]
+# languages_names: [english]
 # Build settings
 markdown: kramdown
 permalink: pretty
