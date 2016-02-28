@@ -8,13 +8,8 @@ date_gmt: '2011-05-07 11:00:04 +0200'
 categories: []
 tags: []
 ---
-This site is dedicated to **tutorials** for **OpenGL 3.3** and later !
 
-Full source code is available [here]({{ site.baseurl }}/download).
-
-Feel free to contact us for any question, remark, bug report, or other : <a href="mailto:contact@opengl-tutorial.org">contact@opengl-tutorial.org</a>.
-
-If you enjoy our work, please don't hesitate to spread the word !
+Welcome to Viljamaa DSP.
 
 Follow us !
 
