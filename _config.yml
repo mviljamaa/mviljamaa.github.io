@@ -1,16 +1,16 @@
 # Site settings
-title: opengl-tutorial
-email: contact@opengl-tutorial.org
-url: "http://www.opengl-tutorial.org"
-description: "Free tutorials for modern Opengl (3.3 and later) in C/C++"
+title: Viljamaa DSP
+email: mviljamaa@kapsi.fi
+url: "http://www.mviljamaa.github.io"
+description: "Computational sound development"
 baseurl: ""
 highlighter: pygments
 safe: true
 lsi: false
 source:      .
-languages_iso: [en, zh, ja, ru, fr]
-languages: [en, cn, jp, ru, fr]
-languages_names: [english, chinese, japanese, russian, français]
+languages_iso: [en]
+languages: [en]
+languages_names: [english]
 # Build settings
 markdown: kramdown
 permalink: pretty
