@@ -44,7 +44,7 @@
         </svg>
       </a>
 
-      <ul class="trigger">
+      <!-- <ul class="trigger">
         {% assign lg = "" %}
         {% if page.language %}
           {% capture lg %}{{page.language}}/{% endcapture %}
@@ -145,9 +145,11 @@
               </ul></li>
             {% endif %}
           </ul>
-        </li>
-        <li><a href="{{site.baseurl}}/{{ lg }}download/">Download</a></li>
-
+        </li> -->
+        <li><a href="{{site.baseurl}}/{{ lg }}download/">Blog</a></li>
+        <li><a href="{{site.baseurl}}/{{ lg }}download/">Open source</a></li>
+        <li><a href="{{site.baseurl}}/{{ lg }}download/">Closed source</a></li>
+        <li><a href="{{site.baseurl}}/{{ lg }}download/">Papers</a></li>
 
         <!-- <li><select id="myLanguage" onchange="myFunction()">
           {% for l in site.languages %}
