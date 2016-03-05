@@ -10,4 +10,4 @@ categories: []
 tags: []
 ---
 
-This is a list of papers I've published on topics related to DSP:
+This is a list of papers I've published on topics related to DSP.
