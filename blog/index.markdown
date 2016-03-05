@@ -10,7 +10,7 @@ tags: []
 ---
 
 
-<div="posts">
+<div class="posts">
 <h1>Posts/h1>
 <ul class="posts">
     {% for post in site.posts %}
