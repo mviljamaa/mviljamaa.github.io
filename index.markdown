@@ -20,7 +20,7 @@ Follow us !
 
 <div class="home">
 
-  <h1>News</h1>
+  <<!-- h1>News</h1>
 
   <ul class="posts">
     {% for post in site.posts %}
@@ -29,7 +29,7 @@ Follow us !
         <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
