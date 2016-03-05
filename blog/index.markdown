@@ -9,9 +9,10 @@ categories: [section]
 tags: []
 ---
 
-<h1>Posts/h1>
+
 
 <ul class="posts">
+<h1>Posts/h1>
     {% for post in site.posts %}
     <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
