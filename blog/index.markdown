@@ -2,14 +2,14 @@
 layout: page
 status: publish
 published: true
-title: Basic OpenGL
+title: Blog
 date: '2011-05-07 10:45:02 +0200'
 date_gmt: '2011-05-07 10:45:02 +0200'
 categories: [section]
 tags: []
 ---
 
-<h1>News</h1>
+<h1>Posts/h1>
 
 <ul class="posts">
     {% for post in site.posts %}
