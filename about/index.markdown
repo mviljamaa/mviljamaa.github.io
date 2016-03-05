@@ -25,3 +25,5 @@ tags: []
 
 <p> From the <b>Commercial</b> and <b>Open Source</b> sections you can find <b>signal processing software</b> that I have developed and wish to distribute. The commercial software is either propietarily licensed (source not available) or available for a fee (e.g. a software library). The open source software is hosted in <b>Github</b> and is free access with licenses varying on a project basis.
 </p>
+
+<p>Matti Viljamaa</p>
