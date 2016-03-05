@@ -10,9 +10,9 @@ tags: []
 ---
 
 
-
-<ul class="posts">
+<div="posts">
 <h1>Posts/h1>
+<ul class="posts">
     {% for post in site.posts %}
     <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -20,3 +20,4 @@ tags: []
     </li>
     {% endfor %}
 </ul> 
+</div>
