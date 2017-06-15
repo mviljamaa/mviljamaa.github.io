@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: 'Exchanging fans on a HP DL585'
+title: 'Exchanging fans on a HP DL 585'
 date: '2011-05-08 17:48:12 +0200'
 date_gmt: '2011-05-08 17:48:12 +0200'
 categories: [rnd]
@@ -19,7 +19,7 @@ fans that have reasonable noise levels (even if they have a high CFM value), I d
 Knowing that Nanoxia Deep Silence 120mm has a pretty good noise/CFM -ratio, I decided to try these in the DL585. Someone else might want to try Noctuas or what not, it doesn't
 really change how the fans are put there.
 
-# The difficulties
+# Some Difficulties
 
 The problem with the DL 585 hot-swappable fan cages is that they're modeled for 120mm x 38mm fans. There are few things in the cage that make it impossible to fit a 120mm x 20mm fan to it. It's a bit stupid design maybe, because
 it could have been made to accomodate fans of both sizes.
