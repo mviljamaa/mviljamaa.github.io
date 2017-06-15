@@ -13,7 +13,7 @@ tags: []
 This is a more hobby post, but I happened to acquire a HP DL 585 server lately. It has pretty nice features for the price,
 but the noise it makes with the default Nidec Beta V VA450DC fans is like a vacuum cleaner.
 
-In order to be able to utilize the serve in my room, I decided to see if the fans could be switched to more silent ones. As I couldn't find 120mm x 38mm
+In order to be able to utilize the server in a conventional household, I decided to see if the fans could be switched to more silent ones. As I couldn't find 120mm x 38mm
 fans that have reasonable noise levels (even if they have a high CFM value), I decided to use conventional 120mm x 20mm fans.
 
 Knowing that Nanoxia Deep Silence 120mm has a pretty good noise/CFM -ratio, I decided to try these in the DL585. Someone else might want to try Noctuas or what not, it doesn't
