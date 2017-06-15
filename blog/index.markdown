@@ -2,20 +2,23 @@
 layout: page
 status: publish
 published: true
-title: Blog
+title: Basic OpenGL
 date: '2011-05-07 10:45:02 +0200'
 date_gmt: '2011-05-07 10:45:02 +0200'
 categories: [section]
 tags: []
 ---
+Follow them in the right order !
 
-
-<h1>Posts</h1>
-<ul class="posts">
-    {% for post in site.posts %}
-    <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-</ul> 
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for p in sorted_pages %}
+   {% assign splt = p.url | split: page.url %}
+   {% if splt.size == 2 and splt[0] == '' %}
+      {% assign slash = splt[1] | split: '/' %}
+{% if slash.size == 1 %}      
+- <a class="page-link" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
+{% else %}
+   - <a class="page-link" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
+{% endif %}
+   {% endif %}
+{% endfor %}
