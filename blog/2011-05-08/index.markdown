@@ -27,5 +27,5 @@ it could have been made to accomodate fans of both sizes.
 In order to fit a 120mm x 25mm fan in the cage, I figured that I had to remove all the plastic parts. And leave only the metal cage as well as the wiring.
 Practically this is not too bad, because eventhough one cannot utilize the fans in as hot-swappable fashion as the original ones, one can still fit new fans in place of the default ones in a practical, usable way.
 
-![Picture description](https://github.com/mviljamaa/mviljamaa.github.io/blob/master/blog/2011-05-08//IMG_20170616_105602.jpg){: .center-image }
-![Picture description](https://github.com/mviljamaa/mviljamaa.github.io/blob/master/blog/2011-05-08/IMG_20170616_111026.jpg){: .center-image }
+![Picture description](https://github.com/mviljamaa/mviljamaa.github.io/blob/master/blog/2011-05-08//IMG_20170616_105602.jpg)
+![Picture description](https://github.com/mviljamaa/mviljamaa.github.io/blob/master/blog/2011-05-08/IMG_20170616_111026.jpg)
