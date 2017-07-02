@@ -14,5 +14,5 @@ Working on a few new small, but novel plug-ins related to sampling.
 
 As of now implementation and release will probably be in Cabbage.
 
-[](http://cabbageaudio.com/)
+[http://cabbageaudio.com/](http://cabbageaudio.com/)
 
