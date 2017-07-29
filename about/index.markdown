@@ -23,7 +23,7 @@ tags: []
 
 <p> I have no fixed set of tools that I work with, but I have found that the ones that are either commonly used for these kinds of programs are <b>C++</b> (for plug-in work I like the <b>WDL-OL</b> framework) and at the higher level one may use <b>Python</b> (<b>Scipy</b>). For audio signal processing I've found <b>FAUST</b> to be a particularly interesting API. I'm also finding <b>Pure Data</b> and <b>CSound</b> (particularly because of its large library) useful. I also have a Kyma X system. The code you will find on this site will be mainly using these. I prefer to work and support non-commercial and open source efforts.</p>
 
-<p> From the <b>Commercial</b> and <b>Open Source</b> sections you can find <b>signal processing software</b> that I have developed and wish to distribute. The commercial software is either propietarily licensed (source not available) or available for a fee (e.g. a software library). The open source software is hosted in <b>Github</b> and is free access with licenses varying on a project basis.
+<p> From the <b>Commercial</b> and <b>Open Source</b> sections you can find <b>signal processing software</b> that I have developed and wish to distribute. The commercial software is either propietarily licensed (source not available) or available for a fee (e.g. a software library). The open source software is hosted in <b>Github</b> or similar and is free access with licenses varying on a project basis.
 </p>
 
 <p>Matti Viljamaa</p>
