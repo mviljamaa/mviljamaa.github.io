@@ -1,6 +1,6 @@
 # Site settings
 title: Viljamaa DSP
-email: blank@blank.com
+email: <a href="http://www.google.com/recaptcha/mailhide/d?k=01jRbSEzl0tGyCdW-akpQp5Q==&amp;c=vX0QLbnXAGb33OwTmkDmg_ORXnCeH4ArlqbQK8unf0E=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01jRbSEzl0tGyCdW-akpQp5Q\x3d\x3d\x26c\x3dvX0QLbnXAGb33OwTmkDmg_ORXnCeH4ArlqbQK8unf0E\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">v...</a>@gmail.com
 url: "http://www.mviljamaa.github.io"
 description: "Computational sound development"
 baseurl: ""
