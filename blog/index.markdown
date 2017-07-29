@@ -11,7 +11,7 @@ tags: []
 
 # Posts
 
-{% assign sorted_pages = site.pages | sort:"order" %}
+{% assign sorted_pages = site.pages | sort:"order" | reverse %}
 {% for p in sorted_pages %}
    {% assign splt = p.url | split: page.url %}
    {% if splt.size == 2 and splt[0] == '' %}
