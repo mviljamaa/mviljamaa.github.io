@@ -21,7 +21,7 @@ Welcome to Viljamaa DSP.
 <h1>News</h1>
 
   <ul class="posts">
-    {% for post in site.blog limit:5 %}
+    {% for post in site.posts limit:5 %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
