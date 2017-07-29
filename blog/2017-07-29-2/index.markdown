@@ -10,4 +10,4 @@ order: 3
 tags: []
 ---
 
-Working on and offering Kyma scripting now.
+Working on and offering Kyma (Kyma X) scripting now.
