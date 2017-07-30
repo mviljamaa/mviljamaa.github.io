@@ -10,5 +10,5 @@ categories: []
 tags: []
 ---
 
-[Sknote](http://www.sknoteaudio.com/wp/index.php/software-products/)
+[Sknote](http://www.sknoteaudio.com/wp/index.php/software-products/)<br />
 Some ingenuine and unconventional plug-ins for common needs.
