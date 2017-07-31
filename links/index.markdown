@@ -10,11 +10,11 @@ categories: []
 tags: []
 ---
 
+[Klevgränd](https://klevgrand.se/products/)<br />
+Some unconventional plug-ins for common needs with inventive branding and user interfaces.
+
 [Positive Grid](https://www.positivegrid.com/)<br />
 Excellent analog modelling plug-ins.
 
 [Sknote](http://www.sknoteaudio.com/wp/index.php/software-products/)<br />
 Some ingenuine and unconventional plug-ins for common needs.
-
-[Klevgränd](https://klevgrand.se/products/)<br />
-Some unconventional plug-ins for common needs with inventive branding and user interfaces.
