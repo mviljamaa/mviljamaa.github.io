@@ -11,7 +11,7 @@ tags: []
 ---
 
 [Elysia](http://www.elysia.com/)<br />
-Most novel take on compression I've heard.
+Most novel takes on classic processing (EQ, compression, ...) I've heard.
 
 [Klevgränd](https://klevgrand.se/products/)<br />
 Some unconventional plug-ins for common needs with inventive branding and user interfaces.
