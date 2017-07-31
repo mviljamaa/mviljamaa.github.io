@@ -16,6 +16,9 @@ Most novel takes on classic processing (EQ, compression, ...) I've heard.
 [Klevgränd](https://klevgrand.se/products/)<br />
 Some unconventional plug-ins for common needs with inventive branding and user interfaces.
 
+[Mutable Instruments](https://mutable-instruments.net/)<br />
+Some clever and pretty Eurorack modules. Open source as well!
+
 [Positive Grid](https://www.positivegrid.com/)<br />
 Excellent analog modelling plug-ins.
 
