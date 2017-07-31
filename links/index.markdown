@@ -10,6 +10,9 @@ categories: []
 tags: []
 ---
 
+[Positive Grid](https://www.positivegrid.com/)<br />
+Excellent analog modelling plug-ins.
+
 [Sknote](http://www.sknoteaudio.com/wp/index.php/software-products/)<br />
 Some ingenuine and unconventional plug-ins for common needs.
 
