@@ -10,4 +10,4 @@ order: 3
 tags: []
 ---
 
-https://www.kvraudio.com/forum/viewtopic.php?f=33&t=488833
+[https://www.kvraudio.com/forum/viewtopic.php?f=33&t=488833](https://www.kvraudio.com/forum/viewtopic.php?f=33&t=488833)
