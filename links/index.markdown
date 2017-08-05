@@ -10,7 +10,7 @@ categories: []
 tags: []
 ---
 
-Interesting companies:<br /><br />
+Interesting companies:<br />
 
 [Elysia](http://www.elysia.com/)<br />
 Most novel takes on classic processing (EQ, compression, ...) I've heard.
@@ -26,8 +26,8 @@ Excellent analog modelling plug-ins.
 
 [Sknote](http://www.sknoteaudio.com/wp/index.php/software-products/)<br />
 Some ingenuine and unconventional plug-ins for common needs.
-
-Interesting websites:<br /><br />
+<br />
+Interesting websites:<br />
 
 [Kymaguy](http://www.kymaguy.com/)<br />
 Good quality tutorials and information on Kyma.
